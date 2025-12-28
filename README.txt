@@ -15,6 +15,3 @@ DOWNLOAD / RELEASES:
 In case you can’t find the download or want older versions:  
 Form-Decor v1.0.0 Release: https://github.com/kektsune/Form-Decor/tree/main
 
-LICENSE / RIGHTS:
-**Copyright © 2025 Kektsune. All rights reserved.**  
-You may modify this software for personal use only, but redistribution of the original or modified versions is not allowed without explicit permission.
