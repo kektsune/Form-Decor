@@ -1,4 +1,4 @@
-Form-Decor is a visual customization tool built in PowerShell that allows users to edit the appearance of a form.
+Form-Decor is a customization tool built in PowerShell that allows users to edit the appearance of a form.
 
 Features:
 - Change the form’s background and text (foreground) colors via clickable color buttons
